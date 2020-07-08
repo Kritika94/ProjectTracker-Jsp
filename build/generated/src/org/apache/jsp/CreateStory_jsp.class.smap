@@ -1,0 +1,22 @@
+SMAP
+CreateStory_jsp.java
+JSP
+*S JSP
+*F
++ 0 CreateStory.jsp
+CreateStory.jsp
++ 1 Header2.jsp
+Header2.jsp
++ 2 Header.jsp
+Header.jsp
+*L
+5,4:50
+5#1,4:53
+5#2,18:56
+8#1,29:73
+8#0,20:101
+28:121,3
+29,7:124
+36:131,3
+37,15:134
+*E
